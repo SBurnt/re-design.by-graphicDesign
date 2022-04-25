@@ -19,6 +19,7 @@
 						<span class="form__input-placeholder">Электронная почта</span>
 					</label>
 					<input class="input-type" type="hidden" name="type" value="Консультация">
+					<input class="input-courses" type="hidden" name="courses" value="Графический дизайн и коммуникации">
 					<button class="btn red form__btn-send">записаться на курс</button>
 				</form>
 				<p class="form__thanks">Спасибо, ваше сообщение отправлено, наши менеджеры скоро свяжутся с вами.</p>

@@ -6,6 +6,7 @@
     display: flex;
     align-items: center;
     padding-top: 0;
+    overflow: hidden;
 
     @include media("max", "lg") {
       flex-direction: column;
@@ -35,6 +36,7 @@
     margin-bottom: 50px;
 
     font-weight: 300;
+    font-weight: 600;
     font-size: var(--fs-65-35);
     text-transform: uppercase;
     letter-spacing: 0.02em;
@@ -63,7 +65,7 @@
 
   .slider {
     height: 700px;
-		height: calc(100vh - 180px);
+    height: calc(100vh - 180px);
 
     @include media("max", "lg") {
       height: 280px;
@@ -84,7 +86,7 @@
 
     &__img-wrap {
       height: 700px;
-			height: calc(100vh - 180px);
+      height: calc(100vh - 180px);
       overflow: hidden;
 
       border-radius: 4px;
@@ -168,7 +170,7 @@
       .slider__img-wrap {
         width: 29%;
         height: 500px;
-				height: calc(100vh - 420px);
+        height: calc(100vh - 420px);
 
         @include media("max", "lg") {
           width: 100%;

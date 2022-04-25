@@ -17,8 +17,8 @@
 							<span class="trainingProgram__num">01</span>
 							<div class="trainingProgram__title-wrap">
 								<div>
-									<span class="trainingProgram__title">1 модуль (1 семестр):</span>
-									<span class="trainingProgram__title">Основы профессии дизайнера интерьеров</span>
+									<span class="trainingProgram__title">1 Блок:</span>
+									<span class="trainingProgram__title">Инструменты графического дизайнера</span>
 								</div>
 								<span class="trainingProgram__icon">
 									<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -28,14 +28,12 @@
 							</div>
 						</button>
 						<div class="trainingProgram__info accordion__content" aria-hidden="true">
-							<p class="trainingProgram__desc">1 семестр 6 месяцев обучения</p>
+							<p class="trainingProgram__desc">4 месяца обучения</p>
 							<ul class="trainingProgram__list-tech">
-								<li class="trainingProgram__list-item">Композиция</li>
-								<li class="trainingProgram__list-item">Колористика</li>
+								<li class="trainingProgram__list-item">Теория дизайна, композиция, колористика</li>
 								<li class="trainingProgram__list-item">Adobe Photoshop</li>
-								<li class="trainingProgram__list-item">Стили в дизайне интерьеров</li>
-								<li class="trainingProgram__list-item">Разработка концепции интерьера</li>
-								<li class="trainingProgram__list-item">Интерьерный скетчинг</li>
+								<li class="trainingProgram__list-item">Adobe Illustrator</li>
+								<li class="trainingProgram__list-item">Figma</li>
 							</ul>
 						</div>
 					</li>
@@ -44,8 +42,8 @@
 							<span class="trainingProgram__num">02</span>
 							<div class="trainingProgram__title-wrap">
 								<div>
-									<span class="trainingProgram__title">1 модуль (2 семестр):</span>
-									<span class="trainingProgram__title">Специализация в дизайн интерьера</span>
+									<span class="trainingProgram__title">2 Блок:</span>
+									<span class="trainingProgram__title">Профессия графический дизайнер</span>
 								</div>
 								<span class="trainingProgram__icon">
 									<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -55,16 +53,14 @@
 							</div>
 						</button>
 						<div class="trainingProgram__info accordion__content" aria-hidden="true">
-							<p class="trainingProgram__desc">2 семестр 6 месяцев обучения</p>
+							<p class="trainingProgram__desc">5 месяцев обучения</p>
 							<ul class="trainingProgram__list-tech">
-								<li class="trainingProgram__list-item">Эргономика</li>
-								<li class="trainingProgram__list-item">Revit</li>
-								<li class="trainingProgram__list-item">Интерьерное материаловедение</li>
-								<li class="trainingProgram__list-item">Инженерно-техническое обеспечение дизайна</li>
-								<li class="trainingProgram__list-item">Светодизайн</li>
-								<li class="trainingProgram__list-item">DiaLux</li>
-								<li class="trainingProgram__list-item">Декорирование</li>
-								<li class="trainingProgram__list-item">Комплектация проекта</li>
+								<li class="trainingProgram__list-item">Фирменный стиль</li>
+								<li class="trainingProgram__list-item">Дизайн упаковки</li>
+								<li class="trainingProgram__list-item">UX/UI</li>
+								<li class="trainingProgram__list-item">Дизайн сайта</li>
+								<li class="trainingProgram__list-item">Работа в Indesign</li>
+								<li class="trainingProgram__list-item">Типографика</li>
 							</ul>
 						</div>
 					</li>
@@ -73,8 +69,8 @@
 							<span class="trainingProgram__num">03</span>
 							<div class="trainingProgram__title-wrap">
 								<div>
-									<span class="trainingProgram__title">2 модуль (3 семестр):</span>
-									<span class="trainingProgram__title">Интерьерная визуализация в 3Ds MAX</span>
+									<span class="trainingProgram__title">3 Блок:</span>
+									<span class="trainingProgram__title">Motion design</span>
 								</div>
 								<span class="trainingProgram__icon">
 									<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -84,11 +80,12 @@
 							</div>
 						</button>
 						<div class="trainingProgram__info accordion__content" aria-hidden="true">
-							<p class="trainingProgram__desc">3 семестр 6 месяцев обучения</p>
+							<p class="trainingProgram__desc">6 месяцев обучения</p>
 							<ul class="trainingProgram__list-tech">
-								<li class="trainingProgram__list-item">Создание 3D  визуализации проекта в 3D MAX</li>
-								<li class="trainingProgram__list-item">Бизнес в дизайне интерьеров</li>
-								<li class="trainingProgram__list-item">Итоговый проект</li>
+								<li class="trainingProgram__list-item">Blender</li>
+								<li class="trainingProgram__list-item">Adobe After Effect</li>
+								<li class="trainingProgram__list-item">Adobe Premiere PRO</li>
+								<li class="trainingProgram__list-item">Cinema 4D</li>
 							</ul>
 						</div>
 					</li>

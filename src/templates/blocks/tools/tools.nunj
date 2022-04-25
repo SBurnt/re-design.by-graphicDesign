@@ -3,27 +3,47 @@
 		<div class="section__inner line">
 			<h2 class="section__title">программы и инструменты</h2>
 			<h2 class="section__subtitle">
-				На курсе <strong>вы сможете овладеть</strong> такими программами как <strong>Revit, 3DSMAX, Adobe Photoshop, Dialux.</strong>
+				На курсе <strong>вы сможете овладеть</strong> такими программами как <strong>Adobe Photoshop, Adobe Illustrator, Figma, Adobe InDesign, Adobe After Effects, Adobe Premiere Pro, Blender, Cinema 4D.</strong>
 			</h2>
 			<ul class="tools__list">
 				<li class="tools__item">
 					<div class="tools__img-wrap">
-						<img class="tools__img lazyload" data-src="assets/images/ico/tools/tool-revit.svg" loading="lazy" alt="ico tool revit">
+						<img class="tools__img lazyload" data-src="assets/images/ico/tools/tool-AdobeAfterEffects.png" loading="lazy" alt="ico tool tool-AdobeAfterEffects">
 					</div>
 				</li>
 				<li class="tools__item">
 					<div class="tools__img-wrap">
-						<img class="tools__img lazyload" data-src="assets/images/ico/tools/tool-3dsmax.svg" loading="lazy" alt="ico tool 3ds max">
+						<img class="tools__img lazyload" data-src="assets/images/ico/tools/tool-AdobePhotoshop.png" loading="lazy" alt="ico tool AdobePhotoshop">
 					</div>
 				</li>
 				<li class="tools__item">
 					<div class="tools__img-wrap">
-						<img class="tools__img lazyload" data-src="assets/images/ico/tools/tool-photoshop.svg" loading="lazy" alt="ico tool photoshop">
+						<img class="tools__img lazyload" data-src="assets/images/ico/tools/tool-Blender.png" loading="lazy" alt="ico tool Blender">
 					</div>
 				</li>
 				<li class="tools__item">
 					<div class="tools__img-wrap">
-						<img class="tools__img lazyload" data-src="assets/images/ico/tools/tool-DIALux.svg" loading="lazy" alt="ico tool DIALux">
+						<img class="tools__img lazyload" data-src="assets/images/ico/tools/tool-Cinema4d.png" loading="lazy" alt="ico tool Cinema4d">
+					</div>
+				</li>
+				<li class="tools__item">
+					<div class="tools__img-wrap">
+						<img class="tools__img lazyload" data-src="assets/images/ico/tools/tool-Illustrator.png" loading="lazy" alt="ico tool Illustrator">
+					</div>
+				</li>
+				<li class="tools__item">
+					<div class="tools__img-wrap">
+						<img class="tools__img lazyload" data-src="assets/images/ico/tools/tool-indesign.png" loading="lazy" alt="ico tool indesign">
+					</div>
+				</li>
+				<li class="tools__item">
+					<div class="tools__img-wrap">
+						<img class="tools__img lazyload" data-src="assets/images/ico/tools/tool-PremierePRO.png" loading="lazy" alt="ico tool PremierePRO">
+					</div>
+				</li>
+				<li class="tools__item">
+					<div class="tools__img-wrap">
+						<img class="tools__img lazyload" data-src="assets/images/ico/tools/tool-figma.png" loading="lazy" alt="ico tool figma">
 					</div>
 				</li>
 			</ul>

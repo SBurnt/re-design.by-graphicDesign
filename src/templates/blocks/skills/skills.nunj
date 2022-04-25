@@ -13,45 +13,45 @@
 					<div class="swiper-wrapper slider__items">
 						<div class="swiper-slide slider__item">
 							<div class="slider__img-wrap">
-								<img class="slider__img lazyload" data-src="assets/images/main/skills/skills-01.jpg" loading="lazy" alt="design">
+								<img class="slider__img lazyload" data-src="assets/images/main/skills/8.jpg" loading="lazy" alt="design">
 							</div>
 							<div class="slider__content">
 								<div class="slider__desc-wrap">
 									<span class="slider__desc-numb">01</span>
-									<p class="slider__desc">Интерьерному проектированию, грамотной разработке планировочных решений, делать планы помещений, разрезы и развертки стен. Выполнять замеры, делать технические чертежи в Revit.</p>
+									<p class="slider__desc">Вы познакомитесь с основными понятиями и принципами дизайна, которые лежат в основе любого изображения и макета, будь это одностраничный лэндинг, графика для коммуникации бренда или многоэкранное мобильное приложение.</p>
 								</div>
 							</div>
 						</div>
 						<div class="swiper-slide slider__item">
 							<div class="slider__img-wrap">
-								<img class="slider__img lazyload" data-src="assets/images/main/skills/skills-02.jpg" loading="lazy" alt="design">
+								<img class="slider__img lazyload" data-src="assets/images/main/skills/9.jpg" loading="lazy" alt="design">
 							</div>
 							<div class="slider__content">
 								<div class="slider__desc-wrap">
 									<span class="slider__desc-numb">02</span>
-									<p class="slider__desc">Зонировать пространства. Освоите принципы композиции, колористики. Познакомитесь с основными и современными стилями в архитектуре и дизайне интерьеров. Научитесь подбирать и сочетать между собой мебель, декор, аксессуары исходя из заданной концепции проекта.</p>
+									<p class="slider__desc">Освоите самые популярные инструменты в графическом дизайне.</p>
 								</div>
 							</div>
 						</div>
 						<div class="swiper-slide slider__item">
 							<div class="slider__img-wrap">
-								<img class="slider__img lazyload" data-src="assets/images/main/skills/skills-03.jpg" loading="lazy" alt="design">
+								<img class="slider__img lazyload" data-src="assets/images/main/skills/10.jpg" loading="lazy" alt="design">
 							</div>
 							<div class="slider__content">
 								<div class="slider__desc-wrap">
 									<span class="slider__desc-numb">03</span>
-									<p class="slider__desc">Овладеете базовым инструментам визуализации скетчинг, коллажирование, макетирование. Познакомитесь с разными строительными материалами. Научитесь подбирать материалы и отделку исходя из бюджета проекта.</p>
+									<p class="slider__desc">Освоите этапы создания дизайна-упаковки: от анализа конкурентов до оформления. Узнаете ключевые термины и понятия, с которыми вы можете столкнуться в брифе.</p>
 								</div>
 							</div>
 						</div>
 						<div class="swiper-slide slider__item">
 							<div class="slider__img-wrap">
-								<img class="slider__img lazyload" data-src="assets/images/main/skills/skills-04.jpg" loading="lazy" alt="design">
+								<img class="slider__img lazyload" data-src="assets/images/main/skills/11.jpg" loading="lazy" alt="design">
 							</div>
 							<div class="slider__content">
 								<div class="slider__desc-wrap">
 									<span class="slider__desc-numb">04</span>
-									<p class="slider__desc">Научитесь делать 3D визуализацию проекта в 3D MAX.</p>
+									<p class="slider__desc">Узнаете этапы создания дизайна лэндинга. Вы научитесь создавать страницы сайта с точки зрения дизайна и маркетинга, адаптировать дизайн страницы под любые форматы.</p>
 								</div>
 							</div>
 						</div>

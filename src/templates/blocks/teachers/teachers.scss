@@ -145,8 +145,8 @@
 
   &__img-wrap-thumbs {
     display: flex;
-    width: max-content;
-    height: 400px;
+    // width: max-content;
+    height: 300px;
 
     cursor: pointer;
   }
@@ -166,7 +166,7 @@
 
   .swiper-slide-thumb-active {
     .teachers__img-wrap-thumbs {
-      height: 420px;
+      height: 350px;
 
       cursor: default;
     }

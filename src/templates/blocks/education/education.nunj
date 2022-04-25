@@ -14,9 +14,9 @@
 				</li>
 
 				<li class="education__item accordion__item">
-					<span class="education__title">Посещение салонов, строительных объектов, для выполнения заданий.</span>
+					<span class="education__title">Онлайн&nbsp;консультации.</span>
 					<div class="education__info accordion__content" aria-hidden="true">
-						<p class="education__desc">В процессе обучения предусмотрено посещение салонов, магазинов и шоу-румов для знакомства с различными строительными материалами, мебелью, освещением, элементами декора.</p>
+						<p class="education__desc">В процессе обучения предусмотрены онлайн-консультации с преподавателями.</p>
 					</div>
 					<button class="btn education__btn accordion__control" aria-expanded="false">
 						<span class="education__btn-plus"></span>
@@ -24,9 +24,9 @@
 				</li>
 
 				<li class="education__item accordion__item">
-					<span class="education__title">Встречи с представителями индустрии.</span>
+					<span class="education__title">Встречи с представителями из индустрии.</span>
 					<div class="education__info accordion__content" aria-hidden="true">
-						<p class="education__desc">Мы предусмотрели встречи с представителями индустрии, в том числе со специалистами по ремонтным работам, отделке. Это необходимо для более глубокого понимания профессии и для расширения вашего круга полезных знакомств и контактов.</p>
+						<p class="education__desc">Мы предусмотрели встречи с представителями индустрии. Это необходимо для более глубокого понимания профессии и для расширения вашего круга полезных знакомств и контактов.</p>
 					</div>
 					<button class="btn education__btn accordion__control" aria-expanded="false">
 						<span class="education__btn-plus"></span>

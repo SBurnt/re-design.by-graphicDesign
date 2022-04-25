@@ -6,16 +6,28 @@
 			</h2>
 			<ul class="whoWork__list">
 				<li class="whoWork__item">
-					<span class="whoWork__title">Дизайнером интерьеров</span>
+					<span class="whoWork__title">Графическим дизайнером</span>
 					<span class="whoWork__salary">от <span>500$</span></span>
 				</li>
 				<li class="whoWork__item">
-					<span class="whoWork__title">Дизайнером декоратором</span>
+					<span class="whoWork__title">Motion design</span>
 					<span class="whoWork__salary">от <span>700$</span></span>
 				</li>
 				<li class="whoWork__item">
-					<span class="whoWork__title">3D-визуализатором</span>
+					<span class="whoWork__title">Креативным дизайнером</span>
+					<span class="whoWork__salary">от <span>950$</span></span>
+				</li>
+				<li class="whoWork__item">
+					<span class="whoWork__title">Дизайнером упаковки</span>
 					<span class="whoWork__salary">от <span>650$</span></span>
+				</li>
+				<li class="whoWork__item">
+					<span class="whoWork__title">Дизайнером книг</span>
+					<span class="whoWork__salary">от <span>450$</span></span>
+				</li>
+				<li class="whoWork__item">
+					<span class="whoWork__title">Дизайнером полиграфической продукции</span>
+					<span class="whoWork__salary">от <span>300$</span></span>
 				</li>
 			</ul>
 		</div>
